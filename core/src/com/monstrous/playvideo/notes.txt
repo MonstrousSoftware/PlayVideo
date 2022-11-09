@@ -1,0 +1,15 @@
+Video player based on Youtube LibGDX Tutorial - Playing videos in game by YoboGames
+
+
+Video made in Blender following Youtube tutorial by Kev Binge
+Video format:
+    File format FFmpeg
+    Container WEBM,
+    Codec: WEBM/V9
+Audio: vorbis 44100 Hz bitrate 192
+
+
+Sound from Pixabay: Big impact by AudioPapkin
+
+Note: had to switch from lwjgl to lwjgl3 to get audio to work.
+Changes to build.gradle and desktopLauncher
